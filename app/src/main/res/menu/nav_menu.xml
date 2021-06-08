@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Manage">
+            <menu>
+                <item android:title="Dashboard"
+                    android:checkable="true"
+                    android:id="@+id/dash"
+                    android:icon="@drawable/ic_home"/>
+                <item android:title="Search"
+                    android:checkable="true"
+                    android:id="@+id/search"
+                    android:icon="@drawable/ic_search"/>
+                <item android:title="Calculate"
+                    android:checkable="true"
+                    android:id="@+id/calculate"
+                    android:icon="@drawable/ic_calculate"/>
+            </menu>
+        </item>
+        <item android:title="Accounts">
+            <menu>
+                <item android:title="Logout"
+                    android:checkable="true"
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_password"/>
+                <item
+                    android:title="About Us"
+                    android:checkable="true"
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_about_us"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

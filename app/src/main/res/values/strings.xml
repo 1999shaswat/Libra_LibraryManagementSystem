@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Librarian</string>
+    <string name="p1_title">Books Issued</string>
+    <string name="p1_desc">Keep an account of the number of books issued.</string>
+    <string name="p2_title">Books Returned</string>
+    <string name="p2_desc">Keep an account of the number of books returned.</string>
+    <string name="p3_title">Membership Price</string>
+    <string name="p3_desc">Get to know the total amount you have pay for membership.</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="signup_instead">Don\'t have account? Sign up instead.</string>
+    <string name="login_instead">Have account? Sign in instead.</string>
+    <string name="login">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="instructions">Find Book Details</string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Enter Book Name</string>
+    <string name="no_results">No Results</string>
+    <string name="loading">Loading…</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>
