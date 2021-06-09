@@ -22,79 +22,7 @@
         android:text="Shaswat Das"
         android:textSize="22sp" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:weightSum="3">
 
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-
-            <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-
-                android:layout_marginBottom="10dp"
-                android:src="@drawable/akash" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppins_medium"
-                android:text="Akash Kumar"
-                android:textSize="15sp" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-
-            <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_marginBottom="10dp"
-                android:src="@drawable/acharya" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppins_medium"
-                android:gravity="center"
-                android:text="Debasish Acharya"
-                android:textSize="15sp" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-
-            <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_marginBottom="10dp"
-                android:src="@drawable/shubrajit" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/poppins_medium"
-                android:gravity="center"
-                android:text="Shubrajit Parida"
-                android:textSize="15sp" />
-        </LinearLayout>
-    </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -111,7 +39,7 @@
             android:background="@drawable/blue_border_rounded_corner"
             android:fontFamily="@font/poppins_regular"
             android:padding="15dp"
-            android:text="We created this project with loads of ♥ \nOur main focus was to make the app as simple as possible and provide a beautiful interface to you, the user. \nThis app is just a beginning of the endless possibilities in library management system. We plan to add many other features like payment systems, due date reminder etc. But for now we are on a small break. \nWe hope you love the app. \nThank you.😸😸"
+            android:text="I created this project with loads of ♥ \My main focus was to make the app as simple as possible and provide a beautiful interface to you, the user. \nThis app is just a beginning of the endless possibilities in library management system. I plan to add many other features like payment systems, due date reminder etc. But for now I am on a small break. \nI hope you love the app. \nThank you.😸😸"
             android:textSize="15sp" />
     </LinearLayout>
 </LinearLayout>
