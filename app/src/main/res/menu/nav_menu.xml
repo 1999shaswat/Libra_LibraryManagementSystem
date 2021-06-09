@@ -24,7 +24,7 @@
                     android:id="@+id/logout"
                     android:icon="@drawable/ic_password"/>
                 <item
-                    android:title="About Us"
+                    android:title="About Me"
                     android:checkable="true"
                     android:id="@+id/about"
                     android:icon="@drawable/ic_about_us"/>
